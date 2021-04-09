@@ -15,5 +15,5 @@
 ### Visual Studio Code 
 1. Visual Studio Code をインストールしていない場合は、[ここからダウンロード](https://code.visualstudio.com/Download)します。インストールしたら Visual Studio Code を起動し、「拡張機能」タブ (Ctrl+Shift+X) で **Python** 拡張機能を検索してインストールします。
 
-2. Visual Studio Code で新しいターミナルを開き、**git clone https://github.com/MicrosoftLearning/mslearn-ai900** と入力して *Enter* キーを押します。 
+2. Visual Studio Code で新しいターミナルを開き、**git clone https://github.com/MicrosoftLearning/AI-900JA-Microsoft-Azure-AI-Fundamentals** と入力して *Enter* キーを押します。 
 
