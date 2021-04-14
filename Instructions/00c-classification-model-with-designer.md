@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning デザイナーを使用して分類モデルを作成する'
 ---
