@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning デザイナーを使用してクラスタリング モデルを作成する'
 ---
