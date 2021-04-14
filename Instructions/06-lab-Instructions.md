@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Form Recognizer で領収書を扱う'
 ---
