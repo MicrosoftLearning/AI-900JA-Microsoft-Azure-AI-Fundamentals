@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Machine Learning で自動機械学習を使用する'
 ---
