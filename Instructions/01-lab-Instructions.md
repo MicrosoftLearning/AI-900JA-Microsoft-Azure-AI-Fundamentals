@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Computer Vision を使用した画像分析'
 ---
