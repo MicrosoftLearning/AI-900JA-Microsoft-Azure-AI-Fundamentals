@@ -1,4 +1,12 @@
-﻿# Microsoft Azure AI の基礎コースの演習
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.ja-JP) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.ja-JP).
+# Microsoft Azure AI の基礎コースの演習
 
 このリポジトリには、Microsoft のコース [AI-900 *Microsoft Azure AI の基礎*](https://docs.microsoft.com/ja-jp/learn/certifications/courses/ai-900t00) のハンズオン ラボの演習と、[自分のペースで進められる Microsoft Learn のモジュール](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)が含まれています。ラボは学習教材に沿って設計されており、教材で説明されているテクノロジを利用して学習できます。 
 
